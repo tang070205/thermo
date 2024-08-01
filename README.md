@@ -20,7 +20,7 @@ The current version of *thermo* has been moved to Python3 recently. Please creat
 
 To install the most recent version, use the following command:
 
-pip install git+https://github.com/AlexGabourie/thermo.git
+pip install git+https://github.com/tang070205/thermo.git
 
 This will install all of the dependencies and the thermo package in the virtual environment.
 
